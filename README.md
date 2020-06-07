@@ -35,6 +35,7 @@ REPO ROOT
 ```
 
 1.4 Download Pre-trained model is available at :coming soon
+
 After downloading, please move the model_LXRT.pth to the folder data/snap/pretrained/
 
 
