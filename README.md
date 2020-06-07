@@ -34,7 +34,7 @@ REPO ROOT
  |-- src
 ```
 
-1.4 Download Pre-trained model is available at https://drive.google.com/file/d/1ExWAE38UPVeDxTSg9ciqDZqNmAmlqrb2/view?usp=sharing
+1.4 Download Pre-trained model is available at :coming soon
 After downloading, please move the model_LXRT.pth to the folder data/snap/pretrained/
 
 
@@ -177,7 +177,7 @@ You can also use the model with moving average operation(BEST_siam.pth), It will
 You can download these models at this link
 
 ```
-    https://drive.google.com/drive/folders/1B43AxSL24FngyBqFzhlF7F8fSF604PDq?usp=sharing
+    coming soon
 ```
 
 After downloading the pre-trained model and (VQA.NLVR2,GQA) fine-tuning model from the drives, please re-organize them under data/ folder according to the following example:
